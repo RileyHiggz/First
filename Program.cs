@@ -6,7 +6,7 @@ namespace First
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Riley Higgins");
+            Console.WriteLine("First Project");
         }
     }
 }
